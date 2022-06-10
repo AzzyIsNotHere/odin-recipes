@@ -1,3 +1,46 @@
+html {
+  background-color: darkorchid;
+}
+
 h1 {
+  font-family: Helvetica, "Times New Roman", "sans-serif";
   text-align: center;
+  font-size: 50px;
+}
+h1.recipeTitle {
+  font-size: 32px;
+}
+
+h2 {
+  font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
+h3 {
+  text-align: center;
+}
+
+hr {
+  border-color: black;
+}
+
+a {
+  color: rgb(31, 19, 87);
+}
+
+a.topTitle {
+  text-decoration: none;
+}
+
+p {
+  font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
+li {
+  font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
